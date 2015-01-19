@@ -4,6 +4,4 @@ Demo of 2 way communication between an Apple Watch app and it's parent iOS app. 
 
 See full 2 way communication tutorial on http://www.kristinathai.com/watchkit-tutorial-communicate-from-parent-app-back-to-watch-via-reply
 
-
-
-
+[![Counter Demo](https://github.com/kristinathai/WatchKitCounter2WayComm/blob/master/counter_demo.png)](http://www.kristinathai.com/watchkit-tutorial-communicate-from-parent-app-back-to-watch-via-reply)
